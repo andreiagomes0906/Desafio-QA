@@ -24,6 +24,7 @@ Este documento consiste em descrever os detalhes do desafio para participar da v
 ## 
 
 ## **1. Cadastro da pessoa usuária**:
+[Desafio Quality Assurance - Lacrei 331ff159df844a1da7d8ceef65fe6763.md](https://github.com/andreiagomes0906/Desafio-QA/files/15030561/Desafio.Quality.Assurance.-.Lacrei.331ff159df844a1da7d8ceef65fe6763.md)
 
 [Cadastro da pessoa usuária.docx](Desafio%20Quality%20Assurance%20-%20Lacrei%20331ff159df844a1da7d8ceef65fe6763/Cadastro_da_pessoa_usuria.docx)
 
@@ -129,4 +130,4 @@ Para testar o reset de senha deverá ser seguido o seguinte fluxo:
 
 # 6. Melhorias:
 
-Ao final de cada teste realizado a página é atualizada sem nenhuma informação, a sugestão de melhorias sobre o tema está na condição de gerar uma mensagem padrão de sucesso da alteração realizada. Exemplo:  Reset realizado com sucesso; Alteração de cadastro realizado com sucesso.
+Ao final de cada teste realizado a página é atualizada sem nenhuma informação, a sugestão de melhorias sobre o tema está na condição de gerar uma mensagem padrão de sucesso da alteração realizada. Exemplo:  Reset realizado com sucesso; Alteração de cadastro realizado com sucesso.[Desafio Quality Assurance - Lacrei 331ff159df844a1da7d8ceef65fe6763.md](https://github.com/andreiagomes0906/Desafio-QA/files/15030572/Desafio.Quality.Assurance.-.Lacrei.331ff159df844a1da7d8ceef65fe6763.md)
